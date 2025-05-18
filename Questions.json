@@ -1,0 +1,721 @@
+{
+  "Questions": 
+  {
+    "numeric": [
+      {
+        "question": "What is the square root of 144?",
+        "options": ["10", "11", "12", "13"],
+        "answer": "12",
+        "points": 1,
+        "type": "numeric"
+      },
+      {
+        "question": "If x + 5 = 17, what is the value of x?",
+        "options": ["10", "11", "12", "13"],
+        "answer": "12",
+        "points": 1,
+        "type": "numeric"
+      },
+      {
+        "question": "What is the result of 7 * 8?",
+        "options": ["54", "56", "58", "60"],
+        "answer": "56",
+        "points": 1,
+        "type": "numeric"
+      },
+      {
+        "question": "Solve: 18 ÷ 3 + 4 * 2",
+        "options": ["10", "12", "14", "16"],
+        "answer": "14",
+        "points": 1,
+        "type": "numeric"
+      },
+      {
+        "question": "What is 25% of 160?",
+        "options": ["30", "35", "40", "45"],
+        "answer": "40",
+        "points": 1,
+        "type": "numeric"
+      },
+      {
+        "question": "Find the value of 5^3.",
+        "options": ["125", "115", "100", "135"],
+        "answer": "125",
+        "points": 1,
+        "type": "numeric"
+      },
+      {
+        "question": "If 3x = 27, what is x?",
+        "options": ["7", "8", "9", "6"],
+        "answer": "9",
+        "points": 1,
+        "type": "numeric"
+      },
+      {
+        "question": "What is the sum of the first 5 natural numbers?",
+        "options": ["10", "15", "20", "25"],
+        "answer": "15",
+        "points": 1,
+        "type": "numeric"
+      },
+      {
+        "question": "Calculate 50% of 90.",
+        "options": ["40", "45", "50", "55"],
+        "answer": "45",
+        "points": 1,
+        "type": "numeric"
+      },
+      {
+        "question": "What is 9 squared?",
+        "options": ["72", "81", "90", "99"],
+        "answer": "81",
+        "points": 1,
+        "type": "numeric"
+      },
+      {
+        "question": "Evaluate 15 + 7 * 2.",
+        "options": ["29", "44", "36", "20"],
+        "answer": "29",
+        "points": 1,
+        "type": "numeric"
+      },
+      {
+        "question": "Find the value of (8 * 6) ÷ 3.",
+        "options": ["12", "16", "14", "18"],
+        "answer": "16",
+        "points": 1,
+        "type": "numeric"
+      },
+      {
+        "question": "If y - 4 = 10, find y.",
+        "options": ["14", "15", "16", "18"],
+        "answer": "14",
+        "points": 1,
+        "type": "numeric"
+      },
+      {
+        "question": "Calculate 7 * 7.",
+        "options": ["48", "49", "50", "51"],
+        "answer": "49",
+        "points": 1,
+        "type": "numeric"
+      },
+      {
+        "question": "What is the cube root of 27?",
+        "options": ["2", "3", "4", "5"],
+        "answer": "3",
+        "points": 1,
+        "type": "numeric"
+      },
+      {
+        "question": "Find 15% of 200.",
+        "options": ["20", "25", "30", "35"],
+        "answer": "30",
+        "points": 1,
+        "type": "numeric"
+      },
+      {
+        "question": "If 2x + 3 = 15, find x.",
+        "options": ["6", "7", "8", "9"],
+        "answer": "6",
+        "points": 1,
+        "type": "numeric"
+      },
+      {
+        "question": "What is 100 divided by 4?",
+        "options": ["20", "25", "30", "35"],
+        "answer": "25",
+        "points": 1,
+        "type": "numeric"
+      },
+      {
+        "question": "Calculate 11 * 11.",
+        "options": ["110", "121", "130", "141"],
+        "answer": "121",
+        "points": 1,
+        "type": "numeric"
+      },
+      {
+        "question": "What is 5 factorial (5!)?",
+        "options": ["100", "110", "120", "130"],
+        "answer": "120",
+        "points": 1,
+        "type": "numeric"
+      },
+      {
+        "question": "Find the value of 3^4.",
+        "options": ["81", "64", "27", "48"],
+        "answer": "81",
+        "points": 1,
+        "type": "numeric"
+      },
+      {
+        "question": "If z / 5 = 6, what is z?",
+        "options": ["25", "30", "35", "40"],
+        "answer": "30",
+        "points": 1,
+        "type": "numeric"
+      },
+      {
+        "question": "Calculate the perimeter of a square with side 9.",
+        "options": ["36", "38", "40", "42"],
+        "answer": "36",
+        "points": 1,
+        "type": "numeric"
+      },
+      {
+        "question": "What is the area of a rectangle with length 8 and width 3?",
+        "options": ["22", "24", "26", "28"],
+        "answer": "24",
+        "points": 1,
+        "type": "numeric"
+      },
+      {
+        "question": "Evaluate 2 * (3 + 5).",
+        "options": ["10", "12", "16", "18"],
+        "answer": "16",
+        "points": 1,
+        "type": "numeric"
+      },
+      {
+        "question": "If 4x = 20, find x.",
+        "options": ["4", "5", "6", "7"],
+        "answer": "5",
+        "points": 1,
+        "type": "numeric"
+      },
+      {
+        "question": "What is 18% of 150?",
+        "options": ["25", "27", "30", "32"],
+        "answer": "27",
+        "points": 1,
+        "type": "numeric"
+      },
+      {
+        "question": "Calculate 14 - 9 + 6.",
+        "options": ["11", "10", "12", "13"],
+        "answer": "11",
+        "points": 1,
+        "type": "numeric"
+      },
+      {
+        "question": "Find the value of 0! (zero factorial).",
+        "options": ["0", "1", "-1", "Undefined"],
+        "answer": "1",
+        "points": 1,
+        "type": "numeric"
+      },
+      {
+        "question": "What is the result of 5 * 12 ÷ 3?",
+        "options": ["15", "20", "25", "30"],
+        "answer": "20",
+        "points": 1,
+        "type": "numeric"
+      },
+      {
+        "question": "Calculate the average of these numbers: 4, 8, 12, 16, 20.",
+        "options": ["12", "14", "16", "18"],
+        "answer": "12",
+        "points": 1,
+        "type": "numeric"
+      }
+    ],
+  
+
+    
+  "verbal": [
+    {
+      "question": "Choose the word most similar in meaning to 'benevolent'.",
+      "options": ["Kind", "Cruel", "Lazy", "Angry"],
+      "answer": "Kind",
+      "points": 1,
+      "type": "verbal"
+    },
+    {
+      "question": "Identify the antonym of 'transparent'.",
+      "options": ["Clear", "Opaque", "Bright", "Smooth"],
+      "answer": "Opaque",
+      "points": 1,
+      "type": "verbal"
+    },
+    {
+      "question": "Choose the correct spelling:",
+      "options": ["Recieve", "Receive", "Receeve", "Receve"],
+      "answer": "Receive",
+      "points": 1,
+      "type": "verbal"
+    },
+    {
+      "question": "Which of these is a synonym for 'accelerate'?",
+      "options": ["Hasten", "Delay", "Pause", "Wait"],
+      "answer": "Hasten",
+      "points": 1,
+      "type": "verbal"
+    },
+    {
+      "question": "Fill in the blank: She is ____ intelligent than her brother.",
+      "options": ["most", "more", "much", "many"],
+      "answer": "more",
+      "points": 1,
+      "type": "verbal"
+    },
+    {
+      "question": "Choose the word that means the opposite of 'generous'.",
+      "options": ["Selfish", "Kind", "Brave", "Helpful"],
+      "answer": "Selfish",
+      "points": 1,
+      "type": "verbal"
+    },
+    {
+      "question": "Identify the correct plural form of 'child'.",
+      "options": ["Childs", "Childes", "Children", "Childrens"],
+      "answer": "Children",
+      "points": 1,
+      "type": "verbal"
+    },
+    {
+      "question": "Select the word that best completes the sentence: The weather today is very ___.",
+      "options": ["sunny", "sun", "sunnier", "sunshine"],
+      "answer": "sunny",
+      "points": 1,
+      "type": "verbal"
+    },
+    {
+      "question": "Find the synonym of 'happy'.",
+      "options": ["Sad", "Joyful", "Angry", "Tired"],
+      "answer": "Joyful",
+      "points": 1,
+      "type": "verbal"
+    },
+    {
+      "question": "Which word is a noun?",
+      "options": ["Run", "Beautiful", "Book", "Quickly"],
+      "answer": "Book",
+      "points": 1,
+      "type": "verbal"
+    },
+    {
+      "question": "Choose the correct past tense of 'go'.",
+      "options": ["Goed", "Went", "Gone", "Going"],
+      "answer": "Went",
+      "points": 1,
+      "type": "verbal"
+    },
+    {
+      "question": "Find the antonym of 'difficult'.",
+      "options": ["Easy", "Hard", "Tough", "Complex"],
+      "answer": "Easy",
+      "points": 1,
+      "type": "verbal"
+    },
+    {
+      "question": "Select the correct sentence.",
+      "options": [
+        "He don't like apples.",
+        "He doesn't likes apples.",
+        "He doesn't like apples.",
+        "He don't likes apples."
+      ],
+      "answer": "He doesn't like apples.",
+      "points": 1,
+      "type": "verbal"
+    },
+    {
+      "question": "Which word is an adjective?",
+      "options": ["Quickly", "Soft", "Run", "Happiness"],
+      "answer": "Soft",
+      "points": 1,
+      "type": "verbal"
+    },
+    {
+      "question": "Find the synonym of 'big'.",
+      "options": ["Large", "Small", "Tiny", "Short"],
+      "answer": "Large",
+      "points": 1,
+      "type": "verbal"
+    },
+    {
+      "question": "Fill in the blank: I ___ to school every day.",
+      "options": ["go", "going", "went", "gone"],
+      "answer": "go",
+      "points": 1,
+      "type": "verbal"
+    },
+    {
+      "question": "Identify the verb in the sentence: 'She sings beautifully.'",
+      "options": ["She", "Sings", "Beautifully", "None"],
+      "answer": "Sings",
+      "points": 1,
+      "type": "verbal"
+    },
+    {
+      "question": "Choose the word most similar in meaning to 'ancient'.",
+      "options": ["Old", "New", "Modern", "Recent"],
+      "answer": "Old",
+      "points": 1,
+      "type": "verbal"
+    },
+    {
+      "question": "What is the correct plural of 'mouse'?",
+      "options": ["Mouses", "Mice", "Mouse", "Mices"],
+      "answer": "Mice",
+      "points": 1,
+      "type": "verbal"
+    },
+    {
+      "question": "Which word is an adverb?",
+      "options": ["Quick", "Quickly", "Quiet", "Quite"],
+      "answer": "Quickly",
+      "points": 1,
+      "type": "verbal"
+    },
+    {
+      "question": "Choose the correct form: She has ____ her homework.",
+      "options": ["do", "did", "done", "doing"],
+      "answer": "done",
+      "points": 1,
+      "type": "verbal"
+    },
+    {
+      "question": "Find the antonym of 'generous'.",
+      "options": ["Mean", "Kind", "Nice", "Helpful"],
+      "answer": "Mean",
+      "points": 1,
+      "type": "verbal"
+    },
+    {
+      "question": "Fill in the blank: They ____ playing football now.",
+      "options": ["is", "are", "am", "was"],
+      "answer": "are",
+      "points": 1,
+      "type": "verbal"
+    },
+    {
+      "question": "Which is the correct sentence?",
+      "options": [
+        "He can plays the guitar.",
+        "He can play the guitar.",
+        "He can playing the guitar.",
+        "He can played the guitar."
+      ],
+      "answer": "He can play the guitar.",
+      "points": 1,
+      "type": "verbal"
+    },
+    {
+      "question": "Choose the word that best fits: The opposite of 'night' is ___.",
+      "options": ["Day", "Light", "Dark", "Sun"],
+      "answer": "Day",
+      "points": 1,
+      "type": "verbal"
+    },
+    {
+      "question": "Identify the correct form: I ___ seen that movie before.",
+      "options": ["have", "has", "had", "having"],
+      "answer": "have",
+      "points": 1,
+      "type": "verbal"
+    },
+    {
+      "question": "Which word is a preposition?",
+      "options": ["Under", "Run", "Happy", "Quick"],
+      "answer": "Under",
+      "points": 1,
+      "type": "verbal"
+    },
+    {
+      "question": "Find the synonym of 'fast'.",
+      "options": ["Quick", "Slow", "Late", "Weak"],
+      "answer": "Quick",
+      "points": 1,
+      "type": "verbal"
+    },
+    {
+      "question": "Fill in the blank: She ____ to the market yesterday.",
+      "options": ["go", "goes", "went", "going"],
+      "answer": "went",
+      "points": 1,
+      "type": "verbal"
+    },
+    {
+      "question": "Choose the correct word: He is very ____ about his work.",
+      "options": ["careful", "careless", "care", "caring"],
+      "answer": "careful",
+      "points": 1,
+      "type": "verbal"
+    },
+    {
+      "question": "Select the antonym of 'happy'.",
+      "options": ["Joyful", "Sad", "Glad", "Cheerful"],
+      "answer": "Sad",
+      "points": 1,
+      "type": "verbal"
+    }
+  ],
+    
+  "computer": [
+    {
+      "question": "Which of the following is a programming language?",
+      "options": ["HTML", "CSS", "Python", "Photoshop"],
+      "answer": "Python",
+      "points": 1,
+      "type": "computer"
+    },
+    {
+      "question": "Which device is used to store permanent data?",
+      "options": ["RAM", "Hard Disk", "Cache", "Register"],
+      "answer": "Hard Disk",
+      "points": 1,
+      "type": "computer"
+    },
+    {
+      "question": "What does CPU stand for?",
+      "options": [
+        "Central Programming Unit",
+        "Computer Processing Unit",
+        "Central Processing Unit",
+        "Control Process Unit"
+      ],
+      "answer": "Central Processing Unit",
+      "points": 1,
+      "type": "computer"
+    },
+    {
+      "question": "Which command is used to list files in Linux?",
+      "options": ["dir", "ls", "show", "list"],
+      "answer": "ls",
+      "points": 1,
+      "type": "computer"
+    },
+    {
+      "question": "Which of the following is NOT an operating system?",
+      "options": ["Windows", "Linux", "Oracle", "MacOS"],
+      "answer": "Oracle",
+      "points": 1,
+      "type": "computer"
+    },
+    {
+      "question": "What is the primary function of an operating system?",
+      "options": [
+        "Manage hardware and software resources",
+        "Write software programs",
+        "Create graphics",
+        "Provide internet access"
+      ],
+      "answer": "Manage hardware and software resources",
+      "points": 1,
+      "type": "computer"
+    },
+    {
+      "question": "Which of these is an example of input device?",
+      "options": ["Monitor", "Keyboard", "Printer", "Speaker"],
+      "answer": "Keyboard",
+      "points": 1,
+      "type": "computer"
+    },
+    {
+      "question": "Which memory is volatile?",
+      "options": ["ROM", "Hard Disk", "RAM", "Flash Memory"],
+      "answer": "RAM",
+      "points": 1,
+      "type": "computer"
+    },
+    {
+      "question": "HTML stands for?",
+      "options": [
+        "Hyper Text Markup Language",
+        "High Text Markup Language",
+        "Hyperlink and Text Markup Language",
+        "Hyperlink Text Mark Language"
+      ],
+      "answer": "Hyper Text Markup Language",
+      "points": 1,
+      "type": "computer"
+    },
+    {
+      "question": "Which of the following is a database management system?",
+      "options": ["MySQL", "Microsoft Word", "Excel", "PowerPoint"],
+      "answer": "MySQL",
+      "points": 1,
+      "type": "computer"
+    },
+    {
+      "question": "What does URL stand for?",
+      "options": [
+        "Uniform Resource Locator",
+        "Universal Resource Link",
+        "Uniform Reference Link",
+        "Universal Reference Locator"
+      ],
+      "answer": "Uniform Resource Locator",
+      "points": 1,
+      "type": "computer"
+    },
+    {
+      "question": "Which is an example of an output device?",
+      "options": ["Mouse", "Monitor", "Scanner", "Microphone"],
+      "answer": "Monitor",
+      "points": 1,
+      "type": "computer"
+    },
+    {
+      "question": "What is the brain of the computer?",
+      "options": ["RAM", "CPU", "Hard Disk", "GPU"],
+      "answer": "CPU",
+      "points": 1,
+      "type": "computer"
+    },
+    {
+      "question": "What does 'GUI' stand for?",
+      "options": [
+        "Graphical User Interface",
+        "General Utility Interface",
+        "Graphical Utility Interaction",
+        "General User Interaction"
+      ],
+      "answer": "Graphical User Interface",
+      "points": 1,
+      "type": "computer"
+    },
+    {
+      "question": "Which programming language is mainly used for web development?",
+      "options": ["Python", "JavaScript", "C++", "Java"],
+      "answer": "JavaScript",
+      "points": 1,
+      "type": "computer"
+    },
+    {
+      "question": "Which of the following is NOT a type of computer network?",
+      "options": ["LAN", "WAN", "PAN", "WANNA"],
+      "answer": "WANNA",
+      "points": 1,
+      "type": "computer"
+    },
+    {
+      "question": "Which part of the computer reads instructions and controls the system?",
+      "options": ["ALU", "CPU", "Control Unit", "Memory Unit"],
+      "answer": "Control Unit",
+      "points": 1,
+      "type": "computer"
+    },
+    {
+      "question": "What type of software is Microsoft Word?",
+      "options": ["Operating System", "Application Software", "Utility Software", "Driver Software"],
+      "answer": "Application Software",
+      "points": 1,
+      "type": "computer"
+    },
+    {
+      "question": "Which of the following is an example of cloud storage?",
+      "options": ["Google Drive", "Hard Disk", "USB Drive", "CD-ROM"],
+      "answer": "Google Drive",
+      "points": 1,
+      "type": "computer"
+    },
+    {
+      "question": "Which of the following is NOT a type of computer memory?",
+      "options": ["Cache", "ROM", "DRAM", "SMTP"],
+      "answer": "SMTP",
+      "points": 1,
+      "type": "computer"
+    },
+    {
+      "question": "Which is NOT an example of a web browser?",
+      "options": ["Chrome", "Firefox", "Edge", "Photoshop"],
+      "answer": "Photoshop",
+      "points": 1,
+      "type": "computer"
+    },
+    {
+      "question": "What is the full form of 'HTTP'?",
+      "options": [
+        "HyperText Transfer Protocol",
+        "Hyperlink Transfer Protocol",
+        "HyperText Transmission Protocol",
+        "Hyper Transfer Text Protocol"
+      ],
+      "answer": "HyperText Transfer Protocol",
+      "points": 1,
+      "type": "computer"
+    },
+    {
+      "question": "Which key is used to restart a computer?",
+      "options": ["F1", "Ctrl + Alt + Del", "Esc", "Shift"],
+      "answer": "Ctrl + Alt + Del",
+      "points": 1,
+      "type": "computer"
+    },
+    {
+      "question": "What is the primary purpose of an IP address?",
+      "options": [
+        "Identify a device on a network",
+        "Provide internet access",
+        "Store data",
+        "Manage software"
+      ],
+      "answer": "Identify a device on a network",
+      "points": 1,
+      "type": "computer"
+    },
+    {
+      "question": "Which of the following is NOT a storage device?",
+      "options": ["CD-ROM", "Flash Drive", "Scanner", "Hard Disk"],
+      "answer": "Scanner",
+      "points": 1,
+      "type": "computer"
+    },
+    {
+      "question": "What is malware?",
+      "options": [
+        "Malicious software",
+        "Software to improve system speed",
+        "Software to backup files",
+        "Programming language"
+      ],
+      "answer": "Malicious software",
+      "points": 1,
+      "type": "computer"
+    },
+    {
+      "question": "Which language is used for styling web pages?",
+      "options": ["HTML", "JavaScript", "CSS", "Python"],
+      "answer": "CSS",
+      "points": 1,
+      "type": "computer"
+    },
+    {
+      "question": "Which company developed the Windows operating system?",
+      "options": ["Apple", "Google", "Microsoft", "IBM"],
+      "answer": "Microsoft",
+      "points": 1,
+      "type": "computer"
+    },
+    {
+      "question": "What does BIOS stand for?",
+      "options": [
+        "Basic Input Output System",
+        "Binary Input Output System",
+        "Basic Internal Output System",
+        "Binary Internal Output System"
+      ],
+      "answer": "Basic Input Output System",
+      "points": 1,
+      "type": "computer"
+    },
+    {
+      "question": "Which of the following is NOT a programming paradigm?",
+      "options": ["Procedural", "Object-oriented", "Functional", "Alphabetical"],
+      "answer": "Alphabetical",
+      "points": 1,
+      "type": "computer"
+    },
+    {
+      "question": "Which protocol is used to send emails?",
+      "options": ["HTTP", "FTP", "SMTP", "TCP"],
+      "answer": "SMTP",
+      "points": 1,
+      "type": "computer"
+    }
+  ]
+}
+}
